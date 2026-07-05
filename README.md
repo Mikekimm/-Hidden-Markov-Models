@@ -55,3 +55,4 @@ Baum-Welch converged at iteration 8 (log-likelihood: 9072.61 → 9124.80).
 - **Normalization** — Z-score using training statistics only
 
 ## Dependencies
+numpy, pandas, scipy, matplotlib, seaborn
